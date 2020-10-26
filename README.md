@@ -1,1 +1,2 @@
-# Project-42-Whitehat-Jr
+# p5.play-boilerplate
+Boiler plate for p5.play
